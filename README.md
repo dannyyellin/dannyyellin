@@ -1,6 +1,6 @@
 - I’m @dannyyellin
-- I’m interested in Cloud and distributed computing, Software Engineering, Programming languages, DNNs
-- How to reach me ...
+- I’m interested in Cloud and distributed computing, Software Engineering, Programming languages, DNNs and using LLMs for Software Engineering
+- How to reach me: danielmyellin@gmail.com
 
 <!---
 dannyyellin/dannyyellin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
